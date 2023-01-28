@@ -1,0 +1,3 @@
+Име = Иван
+Размер = 26
+Email = vankata384@gmail.com
