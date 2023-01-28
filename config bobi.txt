@@ -1,3 +1,0 @@
-name = bobi
-size = 999
-email = borislav.cj@gmail.com
